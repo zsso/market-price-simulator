@@ -64,7 +64,7 @@ export default {
   }
 
   *::-webkit-scrollbar-thumb {
-    background-color: grey;;
+    background-color: grey;
     border-radius: 20px;
     border: 2px solid grey;
   }
